@@ -28,6 +28,7 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 * [Db2 V10.5 Knowledge Center](https://www.ibm.com/support/knowledgecenter/en/SSEPGG_10.5.0/)
 * [Db2 V10.1 Knowledge Center](https://www.ibm.com/support/knowledgecenter/en/SSEPGG_10.1.0/)
 * [Db2 V9.7 Knowledge Center](https://www.ibm.com/support/knowledgecenter/en/SSEPGG_9.7.0/)
+* [Index of free resources in Internet about Db2](https://github.com/angoca/db2-index/wiki)
 
 ### Articles
 * [TODO developerWorks]()
@@ -58,6 +59,7 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 * [Thoughts of DB2. Triton Consulting. Iqbal Goralwalla.](http://blog.triton.co.uk/)
 * [Thoughts on IT, Life, DB2, and more. Data Henrik. Henrik Loeser.](http://blog.4loeser.net)
 * [Ideas for Db2. Andres Gomez Casanova](http://angocadb2.blogspot.com) in Spanish.
+* [Zinox. Vikram Khatri](http://www.zinox.com/).
 
 ### Videos
  * [db2night show](https://www.dbisoftware.com/db2nightshow/)
@@ -65,6 +67,7 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
  * [Discover db2. Michael Krafick](https://www.youtube.com/DISCOVERDB2)
  * [DB2 Tutorials. CaleTheVideoMaker2](https://www.youtube.com/playlist?list=PL_c9BZzLwBRLiGEdFSOvCOr-V0kSs_hQM).
  * [Database tutorials](https://www.youtube.com/channel/UCo0cIzR_TbMzU5wHQmbTjxQ)
+ * [IDUG DB2 Tech Channel](https://www.brighttalk.com/channel/7637/idug-db2-tech-channel)
 
 ### Conferences
 * [IDUG](https://idug.org/).
