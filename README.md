@@ -90,7 +90,7 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 * [ibmcom/db2express-c](https://hub.docker.com/r/ibmcom/db2express-c/).
 * [angoca/db2-instance](https://hub.docker.com/r/angoca/db2-instance).
 
-#Contributing
+# Contributing
 
 Contributions are very welcome!
 
