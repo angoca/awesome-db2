@@ -61,6 +61,7 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 
 ### Monitoring
 * [check_db2_health](https://labs.consol.de/nagios/check_db2_health/).
+* [dbi products](https://www.dbisoftware.com/products.php)
 * [MONITOR-DB2-WITH-NAGIOS](https://angoca.github.io/monitor-db2-with-nagios/)
 * [Plugin to monitor DB2 with Nagios and JNRPE](https://github.com/angoca/db2-jnrpe)
 
@@ -70,11 +71,11 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 ## Tools
 
 ### Utilities
-* [apgdiff](https://www.apgdiff.com/) - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one.
+* [db2unit](https://angoca.github.io/db2unit/) - db2unit is a testing framework for the SQL PL language.
+* [log4db2](https://angoca.github.io/log4db2/) - A logging framework written in SQL-PL for IBM DB2 LUW.
 
 ### Docker images
-* [citusdata/citus](https://hub.docker.com/r/citusdata/citus/) - Citus official images with citus extensions. Based on the official Postgres container.
-
-### Administration
- - [mongoctl](https://github.com/mongolab/mongoctl) - Manage MongoDB servers and replica sets using JSON configurations
-
+* [IBM Official](https://www.ibm.com/account/reg/us-en/signup?formid=urx-19888).
+* [Db2 Developer-C Edition](https://store.docker.com/images/db2-developer-c-edition).
+* [ibmcom/db2express-c](https://hub.docker.com/r/ibmcom/db2express-c/).
+* [angoca/db2-instance](https://hub.docker.com/r/angoca/db2-instance).
