@@ -43,7 +43,6 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 * [Getting started with IBM Data Studio. Dimple Bhatia, Vinod Chirayath, Adam Faeth, Praveen Ghantasala, Hassi Norlen, Hardik Patel, Daniel Zilio. 2010.](https://www.ibm.com/developerworks/community/wikis/home?lang=en_us#!/wiki/Big%20Data%20University/page/FREE%20ebook%20-%20Getting%20Started%20with%20IBM%20Data%20Studio%20for%20DB2)
 * [DB2 LUW V9.7 - SQL Cookbook. Graeme Birchall. 2011.](https://drive.google.com/file/d/0B86nuTd5nMTKd190MFptUEtoYXc/view?usp=sharing)
 * [Unleashing DB2 10 for Linux, UNIX, and Windows. IBM RedBooks. Danny Arnold, Steve Diniro et al. 2012.](http://www.redbooks.ibm.com/abstracts/sg248032.html)
-* [DB2 10.5 with Blu Acceleration (IMM14140USEN). DB2 with BLU Acceleration. Paul Zikopoulus, Sam Lightstone et al. 2014](http://www.ibmbluhub.com/wp-)
 * [Architecting and Deploying DB2 with BLU Acceleration. IBM RedBooks. Whei-Jen Chen, Brigitte Blaser et al. 2015.](http://www.redbooks.ibm.com/abstracts/sg248212.html)
 
 ### Tutorials
