@@ -89,3 +89,9 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 * [Db2 Developer-C Edition](https://store.docker.com/images/db2-developer-c-edition).
 * [ibmcom/db2express-c](https://hub.docker.com/r/ibmcom/db2express-c/).
 * [angoca/db2-instance](https://hub.docker.com/r/angoca/db2-instance).
+
+#Contributing
+
+Contributions are very welcome!
+
+Please have a look at the [CONTRIBUTING](CONTRIBUTING.md) guidelines.
