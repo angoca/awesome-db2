@@ -42,26 +42,26 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 * [DB2 Tutorials. CaleTheVideoMaker2](https://www.youtube.com/playlist?list=PL_c9BZzLwBRLiGEdFSOvCOr-V0kSs_hQM) - Videos from Caleb Curry.
 
 ### Blogs
-* [PlanetDB2](http://www.planetdb2.com/) - an aggregator of blogs about the IBM DB2 database server.
+* [PlanetDB2](http://www.planetdb2.com/) - An aggregator of blogs about the IBM DB2 database server.
 * [An Expert's Guide to DB2 Technology. itToolBox. Chris Eaton.](http://it.toolbox.com/blogs/db2luw/)
-* [BigData and Analytics Hub. IBM.](http://www.ibmbigdatahub.com/tag/292)
+* [BigData and Analytics Hub. IBM](http://www.ibmbigdatahub.com/tag/292) - Articles about Data Analytics from IBM.
 * [Expert tips on building and administering DB2 LUW databases. db2commerce. Ember Crooks](http://datageek.blog/) - Articles from an expert DBA.
 * [SQL Tips for DB2 LUW. DeveloperWorks. Serge Rielau and Rick Swagerman](https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/) - A blog specialized in SQL PL.
 * [Thoughts of DB2. Triton Consulting. Iqbal Goralwalla](http://blog.triton.co.uk/) - Articles from remote DBAs.
-* [Thoughts on IT, Life, DB2, and more. Data Henrik. Henrik Loeser.](http://blog.4loeser.net)
-* [Ideas for Db2. Andres Gomez Casanova](http://angocadb2.blogspot.com) in Spanish.
+* [Thoughts on IT, Life, DB2, and more. Data Henrik. Henrik Loeser](http://blog.4loeser.net) - Many examples of how to use Db2 with other tools, mainly in Blumix.
+* [Ideas for Db2. Andres Gomez Casanova](http://angocadb2.blogspot.com) - Articles about Db2 in Spanish.
 * [Zinox. Vikram Khatri](http://www.zinox.com/) - Articles about Db2, specially PureScale.
 
 ### Videos
  * [db2night show](https://www.dbisoftware.com/db2nightshow/) - Set of videos about anything in Db2.
  * [DB2-LUW-ACADEMY. Harishkumar Pathanga](https://www.youtube.com/user/DB2LUWAcademy/videos) - How to videos about different things in Db2.
  * [Discover db2. Michael Krafick](https://www.youtube.com/DISCOVERDB2) - From introductory to advanced stuff videos about Db2.
- * [DB2 Tutorials. CaleTheVideoMaker2](https://www.youtube.com/playlist?list=PL_c9BZzLwBRLiGEdFSOvCOr-V0kSs_hQM).
- * [Database tutorials](https://www.youtube.com/channel/UCo0cIzR_TbMzU5wHQmbTjxQ)
- * [IDUG DB2 Tech Channel](https://www.brighttalk.com/channel/7637/idug-db2-tech-channel) - Video from IDUG.
+ * [DB2 Tutorials. CaleTheVideoMaker2](https://www.youtube.com/playlist?list=PL_c9BZzLwBRLiGEdFSOvCOr-V0kSs_hQM) - Videos from Caleb Curry.
+ * [Database tutorials](https://www.youtube.com/channel/UCo0cIzR_TbMzU5wHQmbTjxQ) - Technical video about administration in Db2.
+ * [IDUG DB2 Tech Channel](https://www.brighttalk.com/channel/7637/idug-db2-tech-channel) - Videos from IDUG.
 
 ### Conferences
-* [IDUG](https://idug.org/) - the foremost independent, user-driven community that provides a direct channel to thousands of professional Db2 users across the globe.
+* [IDUG](https://idug.org/) - The foremost independent, user-driven community that provides a direct channel to thousands of professional Db2 users across the globe.
 
 ## Tools
 
@@ -79,7 +79,7 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 * [log4db2](https://angoca.github.io/log4db2/) - A logging framework written in SQL-PL for IBM DB2 LUW.
 
 ### Docker images
-* [IBM Official](https://www.ibm.com/account/reg/us-en/signup?formid=urx-19888) - From IBM.
+* [IBM Official](https://www.ibm.com/account/reg/us-en/signup?formid=urx-19888) - From IBM, with the most recent release of Db2.
 * [Db2 Developer-C Edition](https://store.docker.com/images/db2-developer-c-edition) - From IBM.
 * [ibmcom/db2express-c](https://hub.docker.com/r/ibmcom/db2express-c/) - From IBM.
 * [angoca/db2-instance](https://hub.docker.com/r/angoca/db2-instance) - completely reproducible.
