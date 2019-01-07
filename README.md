@@ -12,7 +12,7 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
    - [Documentation](#documentation)
    - [Articles](#articles)
    - [Books](#books)
-   - [Tutorials](#tutorial)
+   - [Tutorials](#tutorials)
    - [Blogs](#blogs)
    - [Videos](#videos)
    - [Conferences](#conferences)
