@@ -1,4 +1,4 @@
-# awesome-db2 [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# awesome-db2 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome Db2 resources, libraries, tools and applications.
 
@@ -95,3 +95,7 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 Contributions are very welcome!
 
 Please have a look at the [CONTRIBUTING](CONTRIBUTING.md) guidelines.
+
+# License
+
+![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png) This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
