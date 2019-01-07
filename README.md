@@ -12,9 +12,17 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
    - [Documentation](#documentation)
    - [Articles](#articles)
    - [Books](#books)
+   - [Tutorials](#tutorial)
+   - [Blogs](#blogs)
+   - [Videos](#videos)
+   - [Conferences](#conferences)
  - [Tools](#tools)
+   - [Monitoring](#monitoring)
+   - [Utilities](#utilities)
+   - [Docker images](#docker-images)
 
 ## Resources
+
 ### Documentation
 * [Db2 V11.1 Knowledge Center](https://www.ibm.com/support/knowledgecenter/en/SSEPGG_11.1.0/)
 * [Db2 V10.5 Knowledge Center](https://www.ibm.com/support/knowledgecenter/en/SSEPGG_10.5.0/)
@@ -59,16 +67,16 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
  * [DB2 Tutorials. CaleTheVideoMaker2](https://www.youtube.com/playlist?list=PL_c9BZzLwBRLiGEdFSOvCOr-V0kSs_hQM).
  * [Database tutorials](https://www.youtube.com/channel/UCo0cIzR_TbMzU5wHQmbTjxQ)
 
+### Conferences
+* [IDUG](https://idug.org/).
+
+## Tools
+
 ### Monitoring
 * [check_db2_health](https://labs.consol.de/nagios/check_db2_health/).
 * [dbi products](https://www.dbisoftware.com/products.php)
 * [MONITOR-DB2-WITH-NAGIOS](https://angoca.github.io/monitor-db2-with-nagios/)
 * [Plugin to monitor DB2 with Nagios and JNRPE](https://github.com/angoca/db2-jnrpe)
-
-## Conferences
-* [IDUG](https://idug.org/).
-
-## Tools
 
 ### Utilities
 * [db2unit](https://angoca.github.io/db2unit/) - db2unit is a testing framework for the SQL PL language.
