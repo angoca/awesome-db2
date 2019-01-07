@@ -7,19 +7,9 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 [Db2 for Linux, UNIX and Windows](https://en.wikipedia.org/wiki/Db2_(Formerly_Db2_for_LUW)) is a database server product developed by IBM. Sometimes called Db2 LUW for brevity, it is part of the Db2 family of database products. Db2 LUW is the "Common Server" product member of the Db2 family, designed to run on most popular operating systems. By contrast, all other Db2 products are specific to a single platform.
 
 
-## Table of Contents
+## Contents
  - [Resources](#resources)
-   - [Documentation](#documentation)
-   - [Articles](#articles)
-   - [Books](#books)
-   - [Tutorials](#tutorials)
-   - [Blogs](#blogs)
-   - [Videos](#videos)
-   - [Conferences](#conferences)
  - [Tools](#tools)
-   - [Monitoring](#monitoring)
-   - [Utilities](#utilities)
-   - [Docker images](#docker-images)
 
 ## Resources
 
