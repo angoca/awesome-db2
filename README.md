@@ -54,7 +54,7 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 
 ### Videos
  * [db2night show](https://www.dbisoftware.com/db2nightshow/) - Set of videos about anything in Db2.
- * [DB2-LUW-ACADEMY. Harishkumar Pathanga](https://www.youtube.com/user/DB2LUWAcademy/videos) - How to videos about different things in Db2.
+ * [DB2 LUW Academy. Harishkumar Pathanga](https://www.youtube.com/user/DB2LUWAcademy/videos) - How to videos about different things in Db2.
  * [Discover db2. Michael Krafick](https://www.youtube.com/DISCOVERDB2) - From introductory to advanced stuff videos about Db2.
  * [DB2 Tutorials. CaleTheVideoMaker2](https://www.youtube.com/playlist?list=PL_c9BZzLwBRLiGEdFSOvCOr-V0kSs_hQM) - Videos from Caleb Curry.
  * [Database tutorials](https://www.youtube.com/channel/UCo0cIzR_TbMzU5wHQmbTjxQ) - Technical video about administration in Db2.
@@ -71,7 +71,7 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 ### Monitoring
 * [check_db2_health](https://labs.consol.de/nagios/check_db2_health/) - Plugin for Nagios.
 * [dbi products](https://www.dbisoftware.com/products.php)
-* [MONITOR-DB2-WITH-NAGIOS](https://angoca.github.io/monitor-db2-with-nagios/) - Plugin for Nagios.
+* [Monitor Db2 with Nagios](https://angoca.github.io/monitor-db2-with-nagios/) - Plugin for Nagios.
 * [Plugin to monitor DB2 with Nagios and JNRPE](https://github.com/angoca/db2-jnrpe) - Plugin for Nagios with jNRPE.
 
 ### Frameworks
