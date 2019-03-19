@@ -69,13 +69,14 @@ The current Db2 product runs on multiple Linux and UNIX distributions, such as R
 
 ### Administration
 - [db2Gdba](https://www.db2gdba.com/) - A Microsoft Windows applications to administer Db2 databases.
+- [Toad for Db2](https://www.toadworld.com/products/toad-for-ibm-db2) - The well-known tool for database administration and development.
 
 ### Monitoring
 - [check_db2_health](https://labs.consol.de/nagios/check_db2_health/) - Plugin for Nagios written in Perl.
 - [dbi products](https://www.dbisoftware.com/products.php) - A set of tools to ge the most from the database.
 - [Monitor Db2 with Nagios](https://angoca.github.io/monitor-db2-with-nagios/) - Plugin for Nagios written in Bash.
 - [Plugin to monitor DB2 with Nagios and JNRPE](https://github.com/angoca/db2-jnrpe) - Plugin for Nagios with jNRPE.
-- [ITGain SpeedGain for Db2]() - A tool that provides the complete picture of what is happing in the database.
+- [ITGain SpeedGain for Db2](https://www.itgain-is.de/en/performance-monitoring/speedgain-for-db2/) - A tool that provides the complete picture of what is happing in the database.
 
 ### Frameworks
 - [db2unit](https://angoca.github.io/db2unit/) - A testing framework for the SQL PL language.
@@ -92,6 +93,7 @@ The current Db2 product runs on multiple Linux and UNIX distributions, such as R
 - [SQL PL in Rosetta Code](http://www.rosettacode.org/wiki/Category:SQL_PL) - A set of examples of how to develop in the procedural language of Db2 - SQL PL.
 - [SQL PL guide](http://www.sqlpl-guide.com/) - A manual about the SQL Procedural Language in DB2. The site helps you to develop stored procedures and user defined functions in DB2.
 - [Db2 Cheat Sheet for development](https://github.com/angoca/db2-cheat-sheet/blob/master/Db2CheatSheetForDev.pdf) - A cheat sheet with many sentences for development in Db2.
+- [SQL Maestro for Db2](https://www.sqlmaestro.com/products/db2/) - A set of tools specially designed for DB2 databases administration.
 
 ## Contributing
 
