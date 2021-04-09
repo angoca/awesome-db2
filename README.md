@@ -18,11 +18,11 @@ The current Db2 product runs on multiple Linux and UNIX distributions, such as R
 
 ### Documentation
 - [Db2 V11.5 Knowledge Center](https://www.ibm.com/docs/en/db2/11.5) - Documentation for v11.5.
-- [Db2 V11.1 Knowledge Center](https://www.ibm.com/support/knowledgecenter/en/SSEPGG_11.1.0/) - Documentation for v11.1.
-- [Db2 V10.5 Knowledge Center](https://www.ibm.com/support/knowledgecenter/en/SSEPGG_10.5.0/) - Documentation for v10.5.
-- [Db2 V10.1 Knowledge Center](https://www.ibm.com/support/knowledgecenter/en/SSEPGG_10.1.0/) - Documentation for v10.1.
-- [Db2 V9.7 Knowledge Center](https://www.ibm.com/support/knowledgecenter/en/SSEPGG_9.7.0/) - Documentation for v9.7.
-- [Index of free resources in Internet about Db2](https://github.com/angoca/db2-index/wiki) - List of articles, blogs, books, videos and any other content freely available in Internet.
+- [Db2 V11.1 Knowledge Center](https://www.ibm.com/docs/en/db2/11.1) - Documentation for v11.1.
+- [Db2 V10.5 Knowledge Center](https://www.ibm.com/docs/en/db2/10.5) - Documentation for v10.5.
+- [Db2 V10.1 Knowledge Center](https://www.ibm.com/docs/en/db2/10.1.0) - Documentation for v10.1.
+- [Db2 V9.7 Knowledge Center](https://www.ibm.com/docs/en/db2/9.7) - Documentation for v9.7.
+- [Index of free resources in Internet about Db2](http://angoca.github.io/db2-index/) - List of articles, blogs, books, videos and any other content freely available in Internet ([Wiki](https://github.com/angoca/db2-index/wiki)).
 
 ### Articles
 - [Articles about Db2](https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&contentarea_by=Information%20management&sort_by=Date&sort_order=2&start=1&end=100&topic_by=-1&product_by=P:DB2%20for%20Linux%20and%20UNIX%20and%20Windows&type_by=Articles&show_abstract=true&search_by=db2&industry_by=-1&series_title_by=) - developerWork articles about different topics of Db2. They are published by IBM.
