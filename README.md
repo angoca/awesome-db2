@@ -17,6 +17,7 @@ The current Db2 product runs on multiple Linux and UNIX distributions, such as R
 ## Resources
 
 ### Documentation
+- [Db2 V11.5 Knowledge Center](https://www.ibm.com/docs/en/db2/11.5) - Documentation for v11.5.
 - [Db2 V11.1 Knowledge Center](https://www.ibm.com/support/knowledgecenter/en/SSEPGG_11.1.0/) - Documentation for v11.1.
 - [Db2 V10.5 Knowledge Center](https://www.ibm.com/support/knowledgecenter/en/SSEPGG_10.5.0/) - Documentation for v10.5.
 - [Db2 V10.1 Knowledge Center](https://www.ibm.com/support/knowledgecenter/en/SSEPGG_10.1.0/) - Documentation for v10.1.
