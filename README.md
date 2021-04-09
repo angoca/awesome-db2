@@ -48,10 +48,10 @@ The current Db2 product runs on multiple Linux and UNIX distributions, such as R
 
 ### Blogs
 - [PlanetDB2](http://www.planetdb2.com/) - An aggregator of blogs about the IBM DB2 database server.
-- [An Expert's Guide to DB2 Technology. itToolBox. Chris Eaton.](http://it.toolbox.com/blogs/db2luw/) - An old blog about technical articles of Db2.
-- [BigData and Analytics Hub. IBM](http://www.ibmbigdatahub.com/tag/292) - Articles about Data Analytics from IBM.
+- NOT WORKING [An Expert's Guide to DB2 Technology. itToolBox. Chris Eaton.](http://it.toolbox.com/blogs/db2luw/) - An old blog about technical articles of Db2.
+- NOT WORKING [BigData and Analytics Hub. IBM](http://www.ibmbigdatahub.com/tag/292) - Articles about Data Analytics from IBM.
 - [Expert tips on building and administering DB2 LUW databases. db2commerce. Ember Crooks](http://datageek.blog/) - Articles from an expert DBA, focussed in the administration of databases.
-- [SQL Tips for DB2 LUW. DeveloperWorks. Serge Rielau and Rick Swagerman](https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/) - A blog specialized in SQL PL, the procedural language of Db2.
+- NOT WORKING [SQL Tips for DB2 LUW. DeveloperWorks. Serge Rielau and Rick Swagerman](https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/) - A blog specialized in SQL PL, the procedural language of Db2.
 - [Thoughts of DB2. Triton Consulting. Iqbal Goralwalla](http://blog.triton.co.uk/) - Articles from experts DBAs that explain different kind of problems in Db2.
 - [Thoughts on IT, Life, DB2, and more. Data Henrik. Henrik Loeser](http://blog.4loeser.net) - Many examples of how to use Db2 interacting with other tools, mainly deployed in Blumix.
 - [Ideas for Db2. Andres Gomez Casanova](http://angocadb2.blogspot.com) - Techinical articles about Db2 in Spanish.
@@ -79,22 +79,20 @@ The current Db2 product runs on multiple Linux and UNIX distributions, such as R
 - [dbi products](https://www.dbisoftware.com/products.php) - A set of tools to ge the most from the database.
 - [Monitor Db2 with Nagios](https://angoca.github.io/monitor-db2-with-nagios/) - Plugin for Nagios written in Bash.
 - [Plugin to monitor DB2 with Nagios and JNRPE](https://github.com/angoca/db2-jnrpe) - Plugin for Nagios with jNRPE.
-- [ITGain SpeedGain for Db2](https://www.itgain-is.de/en/performance-monitoring/speedgain-for-db2/) - A tool that provides the complete picture of what is happing in the database.
+- [ITGain SpeedGain for Db2](https://www.itgain-is.de/en/speedgain-db2) - A tool that provides the complete picture of what is happing in the database.
 
 ### Frameworks
 - [db2unit](https://angoca.github.io/db2unit/) - A testing framework for the SQL PL language.
 - [log4db2](https://angoca.github.io/log4db2/) - A logging framework written in SQL-PL for IBM DB2 LUW.
 
 ### Docker images
-- [IBM Official](https://www.ibm.com/account/reg/us-en/signup?formid=urx-19888) - From IBM, with the most recent release of Db2.
-- [Db2 Developer-C Edition](https://store.docker.com/images/db2-developer-c-edition) - From IBM.
-- [ibmcom/db2express-c](https://hub.docker.com/r/ibmcom/db2express-c/) - From IBM.
+- [ibmcom/db2](https://hub.docker.com/r/ibmcom/db2)
 - [angoca/db2-instance](https://hub.docker.com/r/angoca/db2-instance) - Completely reproducible via Dockerfile.
 
 ## Development
 
 - [SQL PL in Rosetta Code](http://www.rosettacode.org/wiki/Category:SQL_PL) - A set of examples of how to develop in the procedural language of Db2 - SQL PL.
-- [SQL PL guide](http://www.sqlpl-guide.com/) - A manual about the SQL Procedural Language in DB2. The site helps you to develop stored procedures and user defined functions in DB2.
+- [SQL PL guide (Archive.org)](https://web.archive.org/web/20190426233739/http://www.sqlpl-guide.com:80/) - A manual about the SQL Procedural Language in DB2. The site helps you to develop stored procedures and user defined functions in DB2.
 - [Db2 Cheat Sheet for development](https://github.com/angoca/db2-cheat-sheet/blob/master/Db2CheatSheetForDev.pdf) - A cheat sheet with many sentences for development in Db2.
 - [SQL Maestro for Db2](https://www.sqlmaestro.com/products/db2/) - A set of tools specially designed for DB2 databases administration.
 
