@@ -95,6 +95,7 @@ The current Db2 product runs on multiple Linux and UNIX distributions, such as R
 - [SQL PL guide (Archive.org)](https://web.archive.org/web/20190426233739/http://www.sqlpl-guide.com:80/) - A manual about the SQL Procedural Language in DB2. The site helps you to develop stored procedures and user defined functions in DB2.
 - [Db2 Cheat Sheet for development](https://github.com/angoca/db2-cheat-sheet/blob/master/Db2CheatSheetForDev.pdf) - A cheat sheet with many sentences for development in Db2.
 - [SQL Maestro for Db2](https://www.sqlmaestro.com/products/db2/) - A set of tools specially designed for DB2 databases administration.
+- [Playground in Fiddle](https://dbfiddle.uk/?rdbms=db2_11.1) - A playground to test scripts in Db2.
 
 ## Contributing
 
