@@ -25,25 +25,26 @@ The current Db2 product runs on multiple Linux and UNIX distributions, such as R
 - [Index of free resources in Internet about Db2](http://angoca.github.io/db2-index/) - List of articles, blogs, books, videos and any other content freely available in Internet ([Wiki](https://github.com/angoca/db2-index/wiki)).
 
 ### Articles
-- [Articles about Db2](https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&contentarea_by=Information%20management&sort_by=Date&sort_order=2&start=1&end=100&topic_by=-1&product_by=P:DB2%20for%20Linux%20and%20UNIX%20and%20Windows&type_by=Articles&show_abstract=true&search_by=db2&industry_by=-1&series_title_by=) - developerWork articles about different topics of Db2. They are published by IBM.
+- NOT WORKING [Articles about Db2](https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&contentarea_by=Information%20management&sort_by=Date&sort_order=2&start=1&end=100&topic_by=-1&product_by=P:DB2%20for%20Linux%20and%20UNIX%20and%20Windows&type_by=Articles&show_abstract=true&search_by=db2&industry_by=-1&series_title_by=) - developerWork articles about different topics of Db2. They are published by IBM.
 
 ### Books
 - [DB2 UDB V7.2 - SQL Cookbook. Graeme Birchall. 2001](https://drive.google.com/file/d/0B86nuTd5nMTKZzQtaTVTLUZ5ckE/view?usp=sharing) - Book about Db2 grammar.
 - [DB2 UDB V8.2 - SQL Cookbook. Graeme Birchall. 2005](https://drive.google.com/file/d/0B86nuTd5nMTKS3ItN25IX2djTGc/view?usp=sharing) - Book about Db2 grammar.
 - [DB2 V9 - SQL Cookbook. Graeme Birchall. 2007](https://drive.google.com/file/d/0B86nuTd5nMTKNFR1SU9PZkN6MnM/view?usp=sharing) - Book about Db2 grammar.
-- [DB2 LUW V9.5 - SQL Cookbook. Graeme Birchall. 2009.](https://drive.google.com/file/d/0B86nuTd5nMTKdzBkS01nUlZwYXc/view?usp=sharing) - Book about Db2 grammar.
-- [Db2 SQL Cookbook. Graeme Birchall. 2019](http://db2-sql-cookbook.org/) - Book about Db2 grammar, now in asciidoc format on GitHub.
 - [Up and Running with DB2 on Linux. IBM RedBooks. Whei-Jen Chen, Christian Hideaki Kondo et al. 2008](http://www.redbooks.ibm.com/abstracts/sg246899.html) - Description of how to configure a Db2 server from the beginning.
-- [Getting started with DB2 Express-C. Raul Chong, Ian Hakes, Rav Ahuja. 2010](https://www.ibm.com/developerworks/community/wikis/home?lang=en_us#!/wiki/Big%20Data%20University/page/FREE%20eBook%20-%20Getting%20Started%20with%20DB2%20Express-C) - Introductory book to Db2, to learn the components of the database, and how they interact. Focused in the free version of Db2, Express-C.
-- [Getting started with DB2 Application Development. Raul F. Chong, Xiqiang Ji, Priyanka Joshi, Vineet Mishra, Min Wei Yao. 2010](https://www.ibm.com/developerworks/community/wikis/home?lang=en_us#!/wiki/Big%20Data%20University/page/FREE%20ebook%20-%20Getting%20Started%20with%20DB2%20Application%20Development) - Introductory book to develop in Db2 with different programming languages.
-- [Getting started with IBM Data Studio. Dimple Bhatia, Vinod Chirayath, Adam Faeth, Praveen Ghantasala, Hassi Norlen, Hardik Patel, Daniel Zilio. 2010](https://www.ibm.com/developerworks/community/wikis/home?lang=en_us#!/wiki/Big%20Data%20University/page/FREE%20ebook%20-%20Getting%20Started%20with%20IBM%20Data%20Studio%20for%20DB2) - Book to learn how to use Data Studio to administer and develop in Db2.
+- [DB2 LUW V9.5 - SQL Cookbook. Graeme Birchall. 2009.](https://drive.google.com/file/d/0B86nuTd5nMTKdzBkS01nUlZwYXc/view?usp=sharing) - Book about Db2 grammar.
+- NOT WORKING [Getting started with DB2 Express-C. Raul Chong, Ian Hakes, Rav Ahuja. 2010](https://www.ibm.com/developerworks/community/wikis/home?lang=en_us#!/wiki/Big%20Data%20University/page/FREE%20eBook%20-%20Getting%20Started%20with%20DB2%20Express-C) - Introductory book to Db2, to learn the components of the database, and how they interact. Focused in the free version of Db2, Express-C.
+NOT WORKING - [Getting started with DB2 Application Development. Raul F. Chong, Xiqiang Ji, Priyanka Joshi, Vineet Mishra, Min Wei Yao. 2010](https://www.ibm.com/developerworks/community/wikis/home?lang=en_us#!/wiki/Big%20Data%20University/page/FREE%20ebook%20-%20Getting%20Started%20with%20DB2%20Application%20Development) - Introductory book to develop in Db2 with different programming languages.
+NOT WORKING - [Getting started with IBM Data Studio. Dimple Bhatia, Vinod Chirayath, Adam Faeth, Praveen Ghantasala, Hassi Norlen, Hardik Patel, Daniel Zilio. 2010](https://www.ibm.com/developerworks/community/wikis/home?lang=en_us#!/wiki/Big%20Data%20University/page/FREE%20ebook%20-%20Getting%20Started%20with%20IBM%20Data%20Studio%20for%20DB2) - Book to learn how to use Data Studio to administer and develop in Db2.
 - [DB2 LUW V9.7 - SQL Cookbook. Graeme Birchall. 2011.](https://drive.google.com/file/d/0B86nuTd5nMTKd190MFptUEtoYXc/view?usp=sharing) - Book about Db2 grammar.
 - [Unleashing DB2 10 for Linux, UNIX, and Windows. IBM RedBooks. Danny Arnold, Steve Diniro et al. 2012](http://www.redbooks.ibm.com/abstracts/sg248032.html) - New characteristics about Db2 v10.
 - [Architecting and Deploying DB2 with BLU Acceleration. IBM RedBooks. Whei-Jen Chen, Brigitte Blaser et al. 2015](http://www.redbooks.ibm.com/abstracts/sg248212.html) - Introduction to Blu acceleration, column organized tables.
+- [Db2 SQL Cookbook. Graeme Birchall. 2019](http://db2-sql-cookbook.org/) - Book about Db2 grammar, now in asciidoc format on GitHub.
 
 ### Tutorials
 - [Db2 tutorial. TutorialsPoint](https://www.tutorialspoint.com/db2/) - Basic tutorial about Db2, good for beginners.
 - [DB2 Tutorials. CaleTheVideoMaker2](https://www.youtube.com/playlist?list=PL_c9BZzLwBRLiGEdFSOvCOr-V0kSs_hQM) - Videos from Caleb Curry to learn how to develop in Db2.
+- [db2 tutorial](https://www.db2tutorial.com/) - Website that explain components of Db2.
 
 ### Blogs
 - [PlanetDB2](http://www.planetdb2.com/) - An aggregator of blogs about the IBM DB2 database server.
