@@ -72,6 +72,7 @@ The current Db2 product runs on multiple Linux and UNIX distributions, such as R
 
 ### Administration
 - [db2Gdba](https://www.db2gdba.com/) - A Microsoft Windows applications to administer Db2 databases.
+- [LibreDB Studio](https://github.com/libredb/libredb-studio) - Open source, web-based SQL IDE that connects to Db2 LUW over DRDA without an IBM client, browses schemas and runs RUNSTATS and REORG per table.
 - [Toad for Db2](https://www.toadworld.com/products/toad-for-ibm-db2) - The well-known tool for database administration and development.
 
 ### Monitoring
