@@ -73,6 +73,7 @@ The current Db2 product runs on multiple Linux and UNIX distributions, such as R
 ### Administration
 - [db2Gdba](https://www.db2gdba.com/) - A Microsoft Windows applications to administer Db2 databases.
 - [Toad for Db2](https://www.toadworld.com/products/toad-for-ibm-db2) - The well-known tool for database administration and development.
+- [VisuaLeaf](https://visualeaf.com/database/db2/) - Cross-platform desktop client for browsing, querying, and editing Db2 databases.
 
 ### Monitoring
 - [check_db2_health](https://labs.consol.de/nagios/check_db2_health/) - Plugin for Nagios written in Perl.
